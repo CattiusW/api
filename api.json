@@ -1,1 +1,6 @@
-{"switch":"on"}
+[
+  "example.com",
+  "test.com",
+  "mydomain.org",
+  "anotherdomain.net"
+]
